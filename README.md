@@ -7,6 +7,7 @@ Downloads are available in FLAC format (lossless, large size) or opus (compresse
 * There Is Only So Much Time (2025) - The Best Of 2025: [FLAC download](https://github.com/windlereye/windlereye/releases/download/main/Windlereye.-.There.Is.Only.So.Much.Time.2025.flac.zip), [opus download](https://github.com/windlereye/windlereye/releases/download/main/Windlereye.-.There.Is.Only.So.Much.Time.2025.opus.zip)
 
 ### Bulk 2026 albums
+* Inspiring Oddities (2026): [FLAC download](https://github.com/windlereye/windlereye/releases/download/main/Windlereye.-.Inspiring.Oddities.2026.flac.zip), [opus download](https://github.com/windlereye/windlereye/releases/download/main/Windlereye.-.Inspiring.Oddities.2026.opus.zip)
 * Odd Inspirations (2026): [FLAC download](https://github.com/windlereye/windlereye/releases/download/main/Windlereye.-.Odd.Inspirations.2026.flac.zip), [opus download](https://github.com/windlereye/windlereye/releases/download/main/Windlereye.-.Odd.Inspirations.2026.opus.zip)
 * Whole Food (2026): [FLAC download](https://github.com/windlereye/windlereye/releases/download/main/Windlereye.-.Whole.Food.2026.flac.zip), [opus download](https://github.com/windlereye/windlereye/releases/download/main/Windlereye.-.Whole.Food.2026.opus.zip)
 * In Other Words (2026): [FLAC download](https://github.com/windlereye/windlereye/releases/download/main/Windlereye.-.In.Other.Words.2026.flac.zip), [opus download](https://github.com/windlereye/windlereye/releases/download/main/Windlereye.-.In.Other.Words.2026.opus.zip)
