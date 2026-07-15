@@ -7,6 +7,7 @@ Downloads are available in FLAC format (lossless, large size) or opus (compresse
 * There Is Only So Much Time (2025) - The Best Of 2025: [FLAC download](https://github.com/windlereye/windlereye/releases/download/main/Windlereye.-.There.Is.Only.So.Much.Time.2025.flac.zip), [opus download](https://github.com/windlereye/windlereye/releases/download/main/Windlereye.-.There.Is.Only.So.Much.Time.2025.opus.zip)
 
 ### Bulk 2026 albums
+* Ninja Virus (2026): [FLAC download](https://github.com/windlereye/windlereye/releases/download/main/Windlereye.-.Ninja.Virus.2026.flac.zip), [opus download](https://github.com/windlereye/windlereye/releases/download/main/Windlereye.-.Ninja.Virus.2026.opus.zip)
 * Polar Eclipse (2026): [FLAC download](https://github.com/windlereye/windlereye/releases/download/main/Windlereye.-.Polar.Eclipse.2026.flac.zip), [opus download](https://github.com/windlereye/windlereye/releases/download/main/Windlereye.-.Polar.Eclipse.2026.opus.zip)
 * It's Bananas (2026): [FLAC download](https://github.com/windlereye/windlereye/releases/download/main/Windlereye.-.It.s.Bananas.2026.flac.zip), [opus download](https://github.com/windlereye/windlereye/releases/download/main/Windlereye.-.It.s.Bananas.2026.opus.zip)
 * Inspiring Oddities (2026): [FLAC download](https://github.com/windlereye/windlereye/releases/download/main/Windlereye.-.Inspiring.Oddities.2026.flac.zip), [opus download](https://github.com/windlereye/windlereye/releases/download/main/Windlereye.-.Inspiring.Oddities.2026.opus.zip)
